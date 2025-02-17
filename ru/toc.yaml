@@ -1,0 +1,37 @@
+title: Дорожная карта
+href: index.yaml
+
+navigation:
+  logo:
+    dark:
+      icon: 
+    light:
+      icon: 
+  header:
+    leftItems:
+    rightItems:
+      - type: 'controls'
+
+items: 
+  - name: Учебный портал. Ответственный - Администратор
+    href:  
+  - name: Создание пользователей
+    href: 1.md
+  - name: Назначений ролей
+    href: 2.md 
+  - name: Материалы обучения. Ответственный - Учебный центр
+    href:
+  - name: Разработка курсов
+    href: 3.md   
+  - name: Загрузка книг
+    href: 4.md
+  - name: Видеоматериалов
+    href: 5.md 
+  - name: Кабинет учителя. Ответственный - Администратор
+    href: 678.md 
+  - name: Кабинет адаптации.
+    href: 910.md
+  - name: Оценка 360.
+    href: 1112.md 
+  - name: Кабинет руководителя. Ответственный - Администратор
+    href: 1314.md
